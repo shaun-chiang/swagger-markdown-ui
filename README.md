@@ -1,5 +1,7 @@
 # swagger-markdown-ui
-UI for swagger-markdown (https://github.com/syroegkin/swagger-markdown/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/099dabec-9507-4026-b350-f95fa7a2d9a3/deploy-status)](https://app.netlify.com/sites/swagger-markdown-ui/deploys)
+
+UI for [swagger-markdown](https://github.com/syroegkin/swagger-markdown/), deployed [here](http://swagger-markdown-ui.netlify.com/)
 
 ## Project setup
 ```
@@ -25,6 +27,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
